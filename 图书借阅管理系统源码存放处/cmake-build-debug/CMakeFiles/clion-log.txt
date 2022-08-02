@@ -1,0 +1,1 @@
+"D:\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2021.3.3/bin/ninja/win/ninja.exe" -G Ninja -S "D:\桌面\白皓文 214820417 c语言大作业\图书借阅管理系统源码存放处" -B "D:\桌面\白皓文 214820417 c语言大作业\图书借阅管理系统源码存放处\cmake-build-debug"
